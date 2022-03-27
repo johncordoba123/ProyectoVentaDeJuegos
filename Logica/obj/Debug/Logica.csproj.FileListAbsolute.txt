@@ -1,0 +1,15 @@
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\Logica.dll.config
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\Logica.dll
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\Logica.pdb
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\Datos.dll
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\EntityFramework.dll
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\Datos.pdb
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\Datos.dll.config
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\EntityFramework.xml
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\obj\Debug\Logica.dll
+C:\Users\johnc\OneDrive\Escritorio\Proyecto\Logica\obj\Debug\Logica.pdb
